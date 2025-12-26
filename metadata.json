@@ -1,0 +1,5 @@
+{
+  "name": "Time Impression",
+  "description": "A physics-based visual experiment where a pendulum erases and collects text from a page, recreating a specific motion graphic effect.",
+  "requestFramePermissions": []
+}
